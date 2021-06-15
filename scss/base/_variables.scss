@@ -1,0 +1,52 @@
+/* ESTILO DE FUENTES */
+@import 'listas';
+
+/* VARIABLES */ 
+
+/* MARGINS */
+$margin-gral: 0 150px;
+$margin-gral-tablet: 0 75px;
+$margin-gral-celular: 0 25px;
+
+/* FAMILIAS DE FUENTES */
+$font-gral: 'Bebas Neue', cursive;
+$paragraph-f: 'IBM Plex Mono', monospace;
+$link-f: 'Spartan', sans-serif;
+
+/* ESTILOS DE FUENTES */
+$gral-fs: 30px;
+$gral-tablet-fs: 20px;
+$gral-celular-fs: 8px;
+
+$title-fs: 20px;
+$title-tablet-fs: 25px;
+$title-celular-fs: 10px;
+
+$stitle-fs: 20px;
+$stitle-tablet-fs: 20px;
+$stitle-celular-fs: 8px;
+
+$paragraph-fs: 13px;
+$paragraph-tablet-fs: 12px;
+$paragraph-celular-fs: 6px;
+
+$button-fs: 20px;
+$button-tablet-fs: 15px;
+$button-celular-fs: 10px;
+
+$footer-fs: 20px;
+$footer-tablet-fs: 15px;
+$footer-celular-fs: 8px;
+
+/* BACKGROUNDS */
+$index-bg: url(../images/ginger_background.jpeg);
+$adoptions-bg: url(../images/calico_background.jpeg);
+$donate-bg: url(../images/white_background.jpeg);
+$contact-bg: url(../images/black_background.jpeg);
+$foster-bg: url(../images/grey_background.jpeg);
+$spay-bg: url(../images/tabby_ginger_background.jpg);
+$todo-bg: url(../images/tabby_background.jpeg);
+$body-bg: white;
+
+
+

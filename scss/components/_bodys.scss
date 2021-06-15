@@ -1,0 +1,80 @@
+/* ESTILOS DE BODYS */ 
+
+@import '../base/variables';
+
+.index-body {
+    background-image: $index-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.adoptions-body {
+    background-image: $adoptions-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.donate-body {
+    background-image: $donate-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-body {
+    background-image: $contact-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.foster-body {
+    background-image: $foster-bg;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.spay-neuter-body {
+    background-image: $spay-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.to-do-body {
+    background-image: $todo-bg;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: $font-gral;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
